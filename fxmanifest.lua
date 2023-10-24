@@ -31,4 +31,4 @@ files { -- Credits to https://github.com/LVRP-BEN/bl_coords for clipboard copy m
 version '2.4'
 vorp_checker 'yes'
 vorp_name '^4Resource version Check^3'
-vorp_github 'https://github.com/VORPCORE/vorp_admin'
+vorp_github 'https://github.com/elsandkls/vorp_admin'
